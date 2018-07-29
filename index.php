@@ -5,7 +5,7 @@ include("header.php");
 background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; " >
       
       <h1 style="color='white'">BNGCSU</h1>
-      <p style="color='white'>The website of Students' Union of Bidhannagar College</p>
+      <p style="color='white'">The website of Students' Union of Bidhannagar College</p>
  </div>
  <?php
  include("footer.php");
