@@ -1,4 +1,7 @@
+<div class="container">
+<div class="row">
 <div class="col-sm-4">
+<br>
     <div class="well">
       <p>Some text..</p>
     </div>
