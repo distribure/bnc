@@ -8,9 +8,10 @@ include("header.php");
  </div>
 <br />
 <?php
-include("slider.php");
+include("body/slider.php");
+include("body/sidebar.php");
 ?>
  <?php
- include("footer.php");
+include("footer.php");
  ?>
 
