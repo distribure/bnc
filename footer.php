@@ -1,11 +1,14 @@
     
-    <footer class="container-fluid text-center">
+<?php
+include("footer/sponsers.php");
+?>
+<footer class="container-fluid text-center">
       <a href="#myPage" title="To Top">
         <span class="glyphicon glyphicon-chevron-up"></span>
       </a>
       
     </footer>
-     
+    <!-- Scripts --> 
     <script>
     $(document).ready(function(){
       // Add smooth scrolling to all links in navbar + footer link
