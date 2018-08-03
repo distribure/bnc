@@ -1,5 +1,4 @@
- <!-- Slider -->
-	    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -11,15 +10,16 @@
       <div class="item active">
         <img src="https://placehold.it/1200x400?text=IMAGE" alt="Image">
         <div class="carousel-caption">
-          
-          <p> Caption 1</p>
+          <h3>Sell $</h3>
+          <p>Money Money.</p>
         </div>      
       </div>
 
       <div class="item">
         <img src="https://placehold.it/1200x400?text=Another Image Maybe" alt="Image">
         <div class="carousel-caption">
-		<p> Caption 2 </p>
+          <h3>More Sell $</h3>
+          <p>Lorem ipsum...</p>
         </div>      
       </div>
     </div>
